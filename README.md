@@ -1,11 +1,6 @@
 # Twincat3---AutoSolder-Machine
 Industrial AutoSolder machine control system featuring X/Y/Z servo motion, theta stepper control, solder dispensing, and EtherCAT CoE integration.
 
-# AutoSolder Machine
-
-Beckhoff-based automated soldering machine using Cartesian X/Y/Z motion,
-theta stepper control, and automated solder dispensing.
-
 ## Machine Overview
 
 The AutoSolder machine consists of:
